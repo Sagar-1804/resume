@@ -11,7 +11,11 @@ const App = () => {
     
    return(
        <>
-       <Home />
+       <div className="wrap-content">
+           <div className="container">
+               <Home />
+           </div>
+       </div>
         
        </>
    )
