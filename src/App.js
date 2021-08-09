@@ -11,15 +11,7 @@ const App = () => {
     
    return(
        <>
-       <div className="wrap-content">
-           <div className="container">
-               <Router>
-                   <Route exact path="/" component={Home}>
-
-                   </Route>
-               </Router>
-           </div>
-       </div>
+       <Home />
         
        </>
    )
