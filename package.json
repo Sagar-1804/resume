@@ -1,5 +1,6 @@
 {
   "name": "hello",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,6 +9,7 @@
     "@testing-library/user-event": "^12.6.3",
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
+    "gh-pages": "^3.2.3",
     "material-components-web": "^12.0.0",
     "materialize-css": "^1.0.0-rc.2",
     "react": "^17.0.1",
@@ -17,6 +19,7 @@
     "web-vitals": "^1.1.0"
   },
   "scripts": {
+    
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
