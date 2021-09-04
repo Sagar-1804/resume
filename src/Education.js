@@ -41,7 +41,7 @@ const Education = () => {
                                     <strong>S.S.C  </strong>
                                             &nbsp;<span>2015-2016</span>
                                 </h6>
-                                <p className="pt">Saraswati Vidhyalaya<br /> <span>Percentage - 83</span></p>
+                                <p className="pt">Saraswati Vidhyalaya<br /> <span>Percentage - 86</span></p>
                             </blockquote>
                         </div>
                     </div>
