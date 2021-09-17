@@ -74,8 +74,7 @@ const Skills = () => {
                         <p className="grey-text text-lighten-3 pt">
                         
 I am Tutoring as Computer Science and Maths
-Tutor in online homework websites Chegg ,
-Bartleby and Course Hero.</p>
+Tutor in online homework websites Chegg .</p>
                         
                     
                     </div></div>
